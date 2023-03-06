@@ -1,0 +1,23 @@
+ .img {
+display: flex;
+align-items: center;
+margin-left: 300px;
+margin-top: 5%;
+ }
+ .coly P{
+    margin-left: 63px;
+    margin-top: -4%;
+    font-size: 20px;
+ }
+ .coly i{
+    margin-left: 60px;
+ }
+ h1 {
+    text-align: center;
+    margin-top: 7%;
+    color: mediumblue;
+ }
+
+ .coly sup{
+   display: flex;
+ }
